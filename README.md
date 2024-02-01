@@ -6,7 +6,7 @@
   <h></hr>
 </p>
 <br/>
-## <img src="" width="30px">🙋🏻‍♂️Sobre Mi
+<h2 width = 100px>🙋🏻‍♂️Sobre Mi:</h2>
 <div>
            <p>
             ¡Hola! Mi nombre es Lautaro, tengo 28 años y soy de la vibrante
@@ -18,7 +18,7 @@
             🧉 y una buena charla.
           </p>
 </div>
- #💻Tecnologias <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 100px>Tecnologias:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap,git,github&perline=10" width="500px" />
