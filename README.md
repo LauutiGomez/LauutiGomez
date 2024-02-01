@@ -20,7 +20,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap,git,github&perline=10" width="500px" />
   </a>
 </p>
- <hr height=0.5px></hr>
 <br />
 <h2 width="100px">Contáctame <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
 <a href="mailto:lautaromgomez95@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
