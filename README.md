@@ -7,12 +7,12 @@
 <br/>
 <h2 width = 100px>Sobre Mí 🙋🏻‍♂️</h2>
 <div>
-           <p>
-            Tengo 28 años y soy de la vibrante ciudad de Buenos Aires, Argentina.
-          </p>
-          <p>
-            Cuando no estoy inmerso en el mundo del Desarrollo Web, disfruto jugando fútbol ⚽ con amigos o gameplays, así como también de un buen mate 🧉 y una buena charla.
-          </p>
+<p>
+Tengo 28 años y soy de la vibrante ciudad de Buenos Aires, Argentina.
+</p>
+<p>
+Cuando no estoy inmerso en el mundo del Desarrollo Web, disfruto jugando fútbol ⚽ con amigos o gameplays, así como también de un buen mate 🧉 y una buena charla.
+</p>
 </div>
 <h2 width=100px>Tecnologías <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
 <p align="center">
