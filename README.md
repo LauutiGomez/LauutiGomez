@@ -1,7 +1,7 @@
 <h1 align="center">¡Hey! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Soy Lautaro Gomez </h1>
 <br/>
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End+Developer&center=true&width=360&height=30">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End+Developer&center=true&width=360&height=30">
 </p>
 <br/>
 <h2 width = 100px>Sobre Mí 🙋🏻‍♂️</h2>
