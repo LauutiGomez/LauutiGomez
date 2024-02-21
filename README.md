@@ -15,9 +15,9 @@ Tengo 28 años y soy de la vibrante ciudad de Buenos Aires, Argentina.
 </div>
 <h2 width=100px>Tecnologías <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap,git,github&perline=10" width="500px" />
-  </a>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap,git,github&perline=10" width="500px" />
+</a>
 </p>
 <br />
 <h2 width="100px">Contáctame <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
