@@ -16,7 +16,7 @@ Cuando no estoy inmerso en el mundo del Desarrollo Web, disfruto jugando fútbol
 <h2 width=100px>Tecnologías <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap,git,github&perline=10" width="500px" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap,git,github&perline=10" width="500px"/>
 </a>
 </p>
 <br/>
