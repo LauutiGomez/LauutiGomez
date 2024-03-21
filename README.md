@@ -19,7 +19,7 @@ Cuando no estoy inmerso en el mundo del Desarrollo Web, disfruto jugando fútbol
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap,git,github&perline=10" width="500px"/>
 </a>
 </p>
-<br />
+<br/>
 <h2 width="100px">Contáctame<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
 <a href="mailto:lautaromgomez95@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/lautarogomez/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
