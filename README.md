@@ -7,7 +7,7 @@
 <h2 width = 100px>Sobre Mí 🙋🏻‍♂️</h2>
 <div>
 <p>
-Tengo 28 años y soy de la vibrante ciudad de Buenos Aires, Argentina.
+Tengo 29 años y soy de la vibrante ciudad de Buenos Aires, Argentina.
 </p>
 <p>
 Cuando no estoy inmerso en el mundo del Desarrollo Web, disfruto jugando fútbol ⚽ con amigos o gameplays, así como también de un buen mate 🧉 y una buena charla.
